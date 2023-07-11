@@ -1,5 +1,5 @@
 # Introduction
-This is a tiny machine learning demo which covers the relavant necessary steps included: raw dataset loading, data preprocessing, targeting params calculation, etc. In the source code we show the necessary steps for calculating f1-score of Tuesdays datas. The similar mindset is also transferrable if there's few more target values to get. Feel free to take and enjoy!
+This is a tiny machine learning demo which covers the relevant necessary steps included: raw dataset loading, data preprocessing, targeting params calculation, etc. In the source code we show the necessary steps for calculating f1-score of Tuesdays datas. The similar mindset is also transferrable if there's few more target values to get. Feel free to take and enjoy!
 
 # Files
 - [dataset.psv](dataset.psv): This is the dummy dataset which concludes the necessary fields. Each date's data covered as a single record in the dataset. In following we also have the true value of targeting y and it's estimation value like y_hat.
